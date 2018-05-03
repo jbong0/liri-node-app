@@ -1,0 +1,6 @@
+function (err){
+                if (err){
+                    console.log(err)
+                }
+                console.log("Spotify added to log")
+        }

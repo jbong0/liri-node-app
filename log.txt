@@ -1,0 +1,685 @@
+
+----------------------
+Program Ran: my-tweets
+Program Data: Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+----------------------
+Program Ran: my-tweets
+Program Data: Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+----------------------
+Program Ran: my-tweets
+Program Data: Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+----------------------
+Program Ran: my-tweets
+Program Data: Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+----------------------
+Program Ran: my-tweets
+Program Data: Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+----------------------
+Program Ran: my-tweets
+Program Data: Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+Program Data: 
+Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: 
+Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Thu May 03 05:54:25 +0000 2018
+That's what she said..- Michael Scott #bingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Thu May 03 05:52:06 +0000 2018
+Constipated people don't give a crap #bingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Thu May 03 05:52:24 +0000 2018
+Don't drink and drive...you might spill your drink. #bingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Thu May 03 05:51:47 +0000 2018
+Life is too short to remove USB safely.... #bingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Thu May 03 05:51:21 +0000 2018
+Love is like a booger, you keep picking at it until you get it and once you get it you don't know what to do with i… https://t.co/PFgCyv7n5H
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Thu May 03 05:50:12 +0000 2018
+I have not failed. I've just found 10,000 ways that won't work. - Thomas A. Edison #bingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Thu May 03 05:49:26 +0000 2018
+Born to party but forced to work - Anonymous #bingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Thu May 03 05:47:12 +0000 2018
+A lie gets halfway around the world before the truth has a chance to get its pants on. - Winston Churchill #bingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Thu May 03 05:45:16 +0000 2018
+I think the worst time to have a heart attack is during a game of charades. - Demetri Martin #bingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Thu May 03 05:44:48 +0000 2018
+I hate when old people poke you at a wedding and say "you're next". So next time I was at a funeral I poked them an… https://t.co/cnAaflc0JZ
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Thu May 03 05:42:27 +0000 2018
+Behind every great man is a woman rolling her eyes... #bingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Thu May 03 05:42:13 +0000 2018
+Forgiveness is a funny thing. ... #bingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Thu May 03 05:41:56 +0000 2018
+There are only three things women need in life: food, water, and compliments.... #bingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Thu May 03 05:41:35 +0000 2018
+No man has a good enough memory to be a successful liar... #bingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Thu May 03 05:41:13 +0000 2018
+Age is something that doesn't matter, unless you are cheese.... #bingBangBongo
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+----------------------
+Program Ran: my-tweets
+ 
+Program Data: Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
