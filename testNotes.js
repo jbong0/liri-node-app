@@ -2,3 +2,5 @@
 // for (var key in data.tracks.items[0].artists[0]) {
         //     console.log(key)
         // }
+
+        // ${"Rotten Tomatoes Rating: " + JSON.parse(body).Ratings[1].Value}

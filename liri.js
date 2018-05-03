@@ -29,6 +29,7 @@ if(programToRun === "my-tweets"){
 
 // Run twitter/"my-tweets" program
 function myTweets(){
+    searchTerm = "None"
     var client = new Twitter(keys.twitter)
     var params = {screen_name: 'jbongobongo'};
     console.log("\n Most Recent Tweets:" + lineBreak)
@@ -49,18 +50,21 @@ function myTweets(){
 // Run spotify/"spotify-this-song" program
 function spotifyThisSong(){
     var spotify = new Spotify(keys.spotify)
+    if (process.argv[3] === undefined){
+        searchTerm = "The Sign Ace of Base"
+    }
     console.log("\nMusic Search:" + lineBreak)
     spotify.search({ type: 'track', query: searchTerm }, function(err, data) {
         if (err) {
           return console.log('Error occurred: ' + err);
         }
-
         var programData = (`
         ${"Artist: " +  data.tracks.items[0].artists[0].name}
         ${"Song: " + data.tracks.items[0].name}
         ${"Song URL: " + data.tracks.items[0].album.external_urls.spotify}
         ${"Album: " + data.tracks.items[0].album.name}
         `)
+
         appendInfo(programData)
         console.log(programData)
         console.log(lineBreak + "\n\nMusic search saved. \n")  
@@ -70,8 +74,10 @@ function spotifyThisSong(){
 // run OMDB/"movie-this" program
 function movieThis(){
     console.log("\nMovie Search: " + lineBreak)
+    if (process.argv[3] === undefined){
+        searchTerm = "Mr Nobody"
+    }
     var queryUrl = "http://www.omdbapi.com/?t=" + searchTerm + "&y=&plot=short&apikey=trilogy";
-    
     request(queryUrl, function(error, response, body) {
         if (!error && response.statusCode === 200) {
 
@@ -86,8 +92,9 @@ function movieThis(){
             ${"Actors: " + JSON.parse(body).Actors}
             `)
         }
-        console.log(lineBreak + "\n\nMovie search saved. \n") 
         appendInfo(programData)
+        console.log(programData)
+        console.log(lineBreak + "\n\nMovie search saved. \n") 
     })
 }//End movie-this ////////////////////////
 
@@ -100,17 +107,20 @@ function doWhatItSays(){
         }
         console.log("node " + data)
         var dataArr = data.split(",")
-
+        process.argv[3] = ""
         searchTerm = dataArr[1]
-        spotifyThisSong()
+      
+        spotifyThisSong(searchTerm)
     })
 }//End "do-what-it-says ////////////////////////"
 
 // Run appendInfo
 function appendInfo(programData){
     var logProgram = "\nLIRI Command:\n " + programToRun + "\n"
+    var logSearch = "\nSearch Term:\n " + searchTerm + "\n"
+
     // stores programData for each program to "log.txt"
-    fs.appendFile("log.txt", lineBreak + logProgram + programData, function(data,err){
+    fs.appendFile("log.txt", lineBreak + logProgram + programData + logSearch, function(data,err){
         if (err){
             console.log(err)
         } 

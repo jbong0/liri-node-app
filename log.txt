@@ -1,1 +1,252 @@
-// LIRI Command Live Log
+// LIRI Command Log //
+
+
+** TEST **
+----------------------
+LIRI Command:
+ do-what-it-says
+
+        Artist: Backstreet Boys
+        Song: I Want It That Way
+        Song URL: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+        Album: The Hits--Chapter One
+        
+Search Term:
+ "I Want it That Way"
+
+----------------------
+LIRI Command:
+ movie-this
+
+            Movie Title: Mr. Nobody
+            Release Year: 2009
+            IMDB Rating: 7.9
+            Rotten Tomatoes Rating: 66%
+            Produced in: Belgium, Germany, Canada, France, USA, UK            
+            Movie Launguage: English, Mohawk
+            Movie Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+            Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+            
+Search Term:
+ Mr Nobody
+
+----------------------
+LIRI Command:
+ movie-this
+
+            Movie Title: Toy Story
+            Release Year: 1995
+            IMDB Rating: 8.3
+            Rotten Tomatoes Rating: 100%
+            Produced in: USA            
+            Movie Launguage: English
+            Movie Plot: A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
+            Actors: Tom Hanks, Tim Allen, Don Rickles, Jim Varney
+            
+Search Term:
+ toy,story
+
+----------------------
+LIRI Command:
+ spotify-this-song
+
+        Artist: Ace of Base
+        Song: The Sign
+        Song URL: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB
+        Album: The Sign (US Album) [Remastered]
+        
+Search Term:
+ The Sign Ace of Base
+
+----------------------
+LIRI Command:
+ spotify-this-song
+
+        Artist: Stevie Wonder
+        Song: I Just Called To Say I Love You
+        Song URL: https://open.spotify.com/album/5IneLpH3dsBiLlgcSseF8l
+        Album: At The Close Of A Century
+        
+Search Term:
+ I,Just,Called,To,Say,I,Love,You
+
+
+----------------------
+LIRI Command:
+ my-tweets
+Thu May 03 05:54:25 +0000 2018
+That's what she said..- Michael Scott #bingBangBongo
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Thu May 03 05:52:24 +0000 2018
+Don't drink and drive...you might spill your drink. #bingBangBongo
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Thu May 03 05:52:06 +0000 2018
+Constipated people don't give a crap #bingBangBongo
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Thu May 03 05:51:47 +0000 2018
+Life is too short to remove USB safely.... #bingBangBongo
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Thu May 03 05:51:21 +0000 2018
+Love is like a booger, you keep picking at it until you get it and once you get it you don't know what to do with i… https://t.co/PFgCyv7n5H
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Thu May 03 05:50:12 +0000 2018
+I have not failed. I've just found 10,000 ways that won't work. - Thomas A. Edison #bingBangBongo
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Thu May 03 05:49:26 +0000 2018
+Born to party but forced to work - Anonymous #bingBangBongo
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Thu May 03 05:47:12 +0000 2018
+A lie gets halfway around the world before the truth has a chance to get its pants on. - Winston Churchill #bingBangBongo
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Thu May 03 05:45:16 +0000 2018
+I think the worst time to have a heart attack is during a game of charades. - Demetri Martin #bingBangBongo
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Thu May 03 05:44:48 +0000 2018
+I hate when old people poke you at a wedding and say "you're next". So next time I was at a funeral I poked them an… https://t.co/cnAaflc0JZ
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Thu May 03 05:42:27 +0000 2018
+Behind every great man is a woman rolling her eyes... #bingBangBongo
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Thu May 03 05:42:13 +0000 2018
+Forgiveness is a funny thing. ... #bingBangBongo
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Thu May 03 05:41:56 +0000 2018
+There are only three things women need in life: food, water, and compliments.... #bingBangBongo
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Thu May 03 05:41:35 +0000 2018
+No man has a good enough memory to be a successful liar... #bingBangBongo
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Thu May 03 05:41:13 +0000 2018
+Age is something that doesn't matter, unless you are cheese.... #bingBangBongo
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Tue May 01 19:51:56 +0000 2018
+"Love is like a fart. If you have to force it, it's probably sh*t" #bingbangBONGO
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Tue May 01 19:48:24 +0000 2018
+"Life is not a fairytale. When you lose your shoe at midnight, you're drunk" #bingbangBONGO
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Tue May 01 19:42:10 +0000 2018
+"Behind every great man is a woman rolling her eyes." #bingbangBONGO
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Tue May 01 19:41:56 +0000 2018
+"Life is short. Smile while you still have teeth." #bingbangBONGO
+
+Search Term:
+ None
+
+----------------------
+LIRI Command:
+ my-tweets
+Tue May 01 19:33:47 +0000 2018
+#BingBangBongo
+
+Search Term:
+ None
