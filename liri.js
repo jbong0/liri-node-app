@@ -44,8 +44,7 @@ function myTweets(){
         }
         console.log(lineBreak + "\n\nRecent tweets saved. \n")           
     })
-}
-// End my-tweets ////////////////////////
+}// End my-tweets ////////////////////////
 
 // Run spotify/"spotify-this-song" program
 function spotifyThisSong(){
@@ -66,8 +65,7 @@ function spotifyThisSong(){
         console.log(programData)
         console.log(lineBreak + "\n\nMusic search saved. \n")  
     })
-}
-//End spotify-this-song ////////////////////////
+}//End spotify-this-song ////////////////////////
 
 // run OMDB/"movie-this" program
 function movieThis(){
@@ -91,8 +89,7 @@ function movieThis(){
         console.log(lineBreak + "\n\nMovie search saved. \n") 
         appendInfo(programData)
     })
-}
-//End movie-this ////////////////////////
+}//End movie-this ////////////////////////
 
 //Run my/"do-what-it-says" program
 function doWhatItSays(){
@@ -107,19 +104,16 @@ function doWhatItSays(){
         searchTerm = dataArr[1]
         spotifyThisSong()
     })
-}
-//End "do-what-it-says ////////////////////////"
+}//End "do-what-it-says ////////////////////////"
 
 // Run appendInfo
 function appendInfo(programData){
-    var logProgram = "\n\LIRI Command:\n " + programToRun + "\n \n"
-
+    var logProgram = "\nLIRI Command:\n " + programToRun + "\n"
     // stores programData for each program to "log.txt"
-    fs.appendFile("log.txt", lineBreak + logProgram + "Program Data: " + programData, function(data,err){
+    fs.appendFile("log.txt", lineBreak + logProgram + programData, function(data,err){
         if (err){
             console.log(err)
         } 
     })
-}
-//End appendInfo////////////////////////
+}//End appendInfo////////////////////////
 

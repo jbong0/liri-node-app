@@ -1,12 +1,1 @@
 // LIRI Command Live Log
-
-----------------------
-LIRI Command:
- do-what-it-says
- 
-Program Data: 
-        Artist: Backstreet Boys
-        Song: I Want It That Way
-        Song URL: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
-        Album: The Hits--Chapter One
-        
